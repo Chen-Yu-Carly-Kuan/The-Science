@@ -11,3 +11,5 @@
 * A Primer of Ecology 4th Edition by Nicholas J. Gotelli  (Author)
 
 * Numerical Ecology by P. Legendre Loic Legendre
+
+* [Conceptual challenges in microbial community ecology](https://royalsocietypublishing.org/toc/rstb/2020/375/1798?volume=375&vol=375&issue=1798&publicationCode=rstb)
