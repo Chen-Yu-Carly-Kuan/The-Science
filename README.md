@@ -5,4 +5,4 @@
 
 # History_Biology
 
-* [The Natural History of Model Organisms] (https://elifesciences.org/collections/8de90445/the-natural-history-of-model-organisms)
+* [The Natural History of Model Organisms](https://elifesciences.org/collections/8de90445/the-natural-history-of-model-organisms)
